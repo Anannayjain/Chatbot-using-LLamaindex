@@ -1,6 +1,6 @@
-# HYP_Chat Test Repository
+# Chat Test Repository
 
-Welcome to the HYP_Chat Test Repository. This guide provides an overview of the folder structure and usage guidelines for efficient navigation and utilization of the repository.
+Welcome to the Chat Test Repository. This guide provides an overview of the folder structure and usage guidelines for efficient navigation and utilization of the repository.
 
 ## Folder Structure
 
